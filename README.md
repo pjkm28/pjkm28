@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Piyush
+### I am currently a third year undergraduate student at IIT Roorkee
+# I am currently learning Machine learnig , Deep Learning
+# Interested in BlockChain
+
+
 
 <!--
 **pjkm28/pjkm28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
