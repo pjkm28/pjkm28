@@ -1,7 +1,7 @@
-### Hi there 👋, I am Piyush
-### I am currently a third year undergraduate student at IIT Roorkee
-# I am currently learning Machine learnig , Deep Learning
-# Interested in BlockChain
+# Hi there 👋, I am Piyush
+### I am currently a third year undergraduate student at IIT Roorkee.
+### I am currently learning Machine learnig , Deep Learning.
+### Interested in BlockChain.
 
 
 
