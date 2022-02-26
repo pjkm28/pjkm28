@@ -9,6 +9,7 @@
 <br />
 
 ### Languages and Tools:
+<img align="left" alt="solidity" src = 'https://docs.soliditylang.org/en/v0.8.6/_images/logo.svg' width="26px"/>
 <img align="left" alt="cpp" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width="26px"/> 
 <img align="left" alt="python2" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="26px"/>
 <img align="left" alt="tensorflow" src = 'https://avatars.githubusercontent.com/u/15658638?s=200&v=4' width="26px"/> 
