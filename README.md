@@ -4,7 +4,7 @@
  - I am currently a third year undergraduate student at IIT Roorkee.
  - I am currently exploring BLock-Chain Development.
  - Interested in Machine Learning, Deep Learning, BlockChain.
-
+ - :octocat: [My Resume](https://drive.google.com/file/d/1aifLiREXil8ZCOpdNkDC5feBH5V1Okq6/view?usp=sharing)
 
 <br />
 
@@ -26,14 +26,14 @@
 ### Quick stats about me:
 [![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjkm28&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjkm28&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pjkm28&layout=compact">
 
 ### Find me At:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-mishra-a0b948194/)](https://www.linkedin.com/in/piyush-mishra-a0b948194/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjkm28@gmail.com)](mailto:pjkm28@gmail.com)
 [![CodeChef Badge](https://cp-logo.vercel.app/codechef/piyushm28?logo=true)](https://www.codechef.com/users/piyushm28)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/piyushm28)](https://www.hackerrank.com/piyushm28)
-[![CodeForces Badge](https://cp-logo.vercel.app/codeforces/piyushm28?logo=true)](https://codeforces.com/profile/piyushm28)
+<!-- [![CodeForces Badge](https://cp-logo.vercel.app/codeforces/piyushm28?logo=true)](https://codeforces.com/profile/piyushm28) -->
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/pjkm28/)](https://auth.geeksforgeeks.org/user/pjkm28/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/pjkm28/)](https://github.com/pjkm28/) 
