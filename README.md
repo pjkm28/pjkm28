@@ -2,7 +2,7 @@
 
 ## About ME
  - I am currently a third year undergraduate student at IIT Roorkee.
- - I am currently learning Data Science.
+ - I am currently exploring BLock-Chain Development.
  - Interested in Machine Learning, Deep Learning, BlockChain.
 
 
