@@ -1,8 +1,8 @@
 # Hi there 👋, I am Piyush
 
 ## About ME
- - I am currently a third year undergraduate student at IIT Roorkee.
- - I am currently exploring BLock-Chain Development.
+ - I am a Final year undergraduate student at IIT Roorkee.
+ - I am currently exploring Data Science and Machine Learning.
  - Interested in Machine Learning, Deep Learning, BlockChain.
  - :octocat: [My Resume](https://drive.google.com/file/d/1aifLiREXil8ZCOpdNkDC5feBH5V1Okq6/view?usp=sharing)
 
@@ -30,6 +30,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pjkm28&layout=compact">
 
 ### Find me At:
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-00599C?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/piyushm28/)](https://www.kaggle.com/piyushm28/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-mishra-a0b948194/)](https://www.linkedin.com/in/piyush-mishra-a0b948194/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjkm28@gmail.com)](mailto:pjkm28@gmail.com)
 [![CodeChef Badge](https://cp-logo.vercel.app/codechef/piyushm28?logo=true)](https://www.codechef.com/users/piyushm28)
